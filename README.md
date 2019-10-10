@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 This set of jupyter notebooks supports the machine learning tutorials prepared for the workshop 
-[Learning to Discover : Advanced Pattern Recognition](https://indico.cern.ch/event/847626/overview) at IPP Saclay.
+[Learning to Discover : Advanced Pattern Recognition](https://indico.cern.ch/event/847626/overview) at Institute Pascal / Paris-Saclay University.
 
 ## delphi.ipynb - Tracking by growing a neural gas  (Unsupervised training)
 This tutorial demonstrates the use of a Growing Neural Gas (GNG) network to learn the topology of an event as measured by the 
