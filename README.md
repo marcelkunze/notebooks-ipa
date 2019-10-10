@@ -1,5 +1,3 @@
-$\sqrt{3x-1}+(1+x)^2$
-
 # Machine Learning Notebooks
 This set of jupyter notebooks supports the machine learning tutorials prepared for the workshop 
 [Learning to Discover : Advanced Pattern Recognition](https://indico.cern.ch/event/847626/overview) at IPP Saclay.
